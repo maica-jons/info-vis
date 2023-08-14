@@ -1,5 +1,8 @@
 - exabytes
-- deluge
-- nuanced
-- scatter
-- plot
+- deluge of data
+- nuanced judgements
+- visual encodings
+- force-directed layout
+- cliques
+- cluster structure
+- seriation
